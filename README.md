@@ -1,5 +1,5 @@
 - 👋 Hi, I’m mahlagha kafili
-- 👀 I’m interested in programming and modeling
+- 👀 I’m interested in programming and ML
 - 🌱 I’m currently learning data science
 - 📫 How to reach me, you can send a email: kafilimahlagha@gmail.com
 
